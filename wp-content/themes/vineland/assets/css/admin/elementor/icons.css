@@ -1,0 +1,850 @@
+
+@font-face {
+  font-family: "vineland-icon";
+  src: url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.eot");
+  src: url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.eot#iefix") format("eot"), url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.woff2") format("woff2"), url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.woff") format("woff"), url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.ttf") format("truetype"), url("/wp-content/themes/vineland/assets/fonts/icons/vineland-icon-1.0.3.svg#vineland-icon-1.0.3") format("svg");
+}
+[class*=vineland-icon-] {
+  font-family: "vineland-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.vineland-icon-account:before {
+  content: "";
+}
+
+.vineland-icon-activity:before {
+  content: "";
+}
+
+.vineland-icon-avatar:before {
+  content: "";
+}
+
+.vineland-icon-best-price:before {
+  content: "";
+}
+
+.vineland-icon-breadcrumb:before {
+  content: "";
+}
+
+.vineland-icon-bullet-list-line:before {
+  content: "";
+}
+
+.vineland-icon-calendar:before {
+  content: "";
+}
+
+.vineland-icon-calendar1:before {
+  content: "";
+}
+
+.vineland-icon-calendar2:before {
+  content: "";
+}
+
+.vineland-icon-car:before {
+  content: "";
+}
+
+.vineland-icon-chat1:before {
+  content: "";
+}
+
+.vineland-icon-check1:before {
+  content: "";
+}
+
+.vineland-icon-checkbox-circle:before {
+  content: "";
+}
+
+.vineland-icon-chevron-down:before {
+  content: "";
+}
+
+.vineland-icon-chevron-left:before {
+  content: "";
+}
+
+.vineland-icon-chevron-right:before {
+  content: "";
+}
+
+.vineland-icon-chevron-up:before {
+  content: "";
+}
+
+.vineland-icon-clock:before {
+  content: "";
+}
+
+.vineland-icon-customer-service:before {
+  content: "";
+}
+
+.vineland-icon-exploring:before {
+  content: "";
+}
+
+.vineland-icon-farming:before {
+  content: "";
+}
+
+.vineland-icon-grape:before {
+  content: "";
+}
+
+.vineland-icon-guest:before {
+  content: "";
+}
+
+.vineland-icon-home-1:before {
+  content: "";
+}
+
+.vineland-icon-hotel-room:before {
+  content: "";
+}
+
+.vineland-icon-image-square:before {
+  content: "";
+}
+
+.vineland-icon-layout-grid-line:before {
+  content: "";
+}
+
+.vineland-icon-left-l:before {
+  content: "";
+}
+
+.vineland-icon-list-check:before {
+  content: "";
+}
+
+.vineland-icon-list-ul:before {
+  content: "";
+}
+
+.vineland-icon-location:before {
+  content: "";
+}
+
+.vineland-icon-location1:before {
+  content: "";
+}
+
+.vineland-icon-location2:before {
+  content: "";
+}
+
+.vineland-icon-mobile:before {
+  content: "";
+}
+
+.vineland-icon-pen-tool:before {
+  content: "";
+}
+
+.vineland-icon-phone-call:before {
+  content: "";
+}
+
+.vineland-icon-phone:before {
+  content: "";
+}
+
+.vineland-icon-pinterest:before {
+  content: "";
+}
+
+.vineland-icon-play-circle:before {
+  content: "";
+}
+
+.vineland-icon-play-fill:before {
+  content: "";
+}
+
+.vineland-icon-play:before {
+  content: "";
+}
+
+.vineland-icon-plus-circle-o:before {
+  content: "";
+}
+
+.vineland-icon-plus-m:before {
+  content: "";
+}
+
+.vineland-icon-post-on:before {
+  content: "";
+}
+
+.vineland-icon-quote-left:before {
+  content: "";
+}
+
+.vineland-icon-reply-line:before {
+  content: "";
+}
+
+.vineland-icon-restaurant:before {
+  content: "";
+}
+
+.vineland-icon-right-l:before {
+  content: "";
+}
+
+.vineland-icon-send2:before {
+  content: "";
+}
+
+.vineland-icon-setting:before {
+  content: "";
+}
+
+.vineland-icon-share-all:before {
+  content: "";
+}
+
+.vineland-icon-share1:before {
+  content: "";
+}
+
+.vineland-icon-start2:before {
+  content: "";
+}
+
+.vineland-icon-swimming-pool:before {
+  content: "";
+}
+
+.vineland-icon-tag1:before {
+  content: "";
+}
+
+.vineland-icon-th-large-o:before {
+  content: "";
+}
+
+.vineland-icon-tools:before {
+  content: "";
+}
+
+.vineland-icon-tour-type:before {
+  content: "";
+}
+
+.vineland-icon-travel:before {
+  content: "";
+}
+
+.vineland-icon-upload1:before {
+  content: "";
+}
+
+.vineland-icon-users:before {
+  content: "";
+}
+
+.vineland-icon-video2:before {
+  content: "";
+}
+
+.vineland-icon-waiter:before {
+  content: "";
+}
+
+.vineland-icon-wine:before {
+  content: "";
+}
+
+.vineland-icon-wines:before {
+  content: "";
+}
+
+.vineland-icon-youtube-line:before {
+  content: "";
+}
+
+.vineland-icon-adobe:before {
+  content: "";
+}
+
+.vineland-icon-amazon:before {
+  content: "";
+}
+
+.vineland-icon-android:before {
+  content: "";
+}
+
+.vineland-icon-angular:before {
+  content: "";
+}
+
+.vineland-icon-apper:before {
+  content: "";
+}
+
+.vineland-icon-apple:before {
+  content: "";
+}
+
+.vineland-icon-atlassian:before {
+  content: "";
+}
+
+.vineland-icon-behance:before {
+  content: "";
+}
+
+.vineland-icon-bitbucket:before {
+  content: "";
+}
+
+.vineland-icon-bitcoin:before {
+  content: "";
+}
+
+.vineland-icon-bity:before {
+  content: "";
+}
+
+.vineland-icon-bluetooth:before {
+  content: "";
+}
+
+.vineland-icon-btc:before {
+  content: "";
+}
+
+.vineland-icon-centos:before {
+  content: "";
+}
+
+.vineland-icon-chrome:before {
+  content: "";
+}
+
+.vineland-icon-codepen:before {
+  content: "";
+}
+
+.vineland-icon-cpanel:before {
+  content: "";
+}
+
+.vineland-icon-discord:before {
+  content: "";
+}
+
+.vineland-icon-dochub:before {
+  content: "";
+}
+
+.vineland-icon-docker:before {
+  content: "";
+}
+
+.vineland-icon-dribbble:before {
+  content: "";
+}
+
+.vineland-icon-dropbox:before {
+  content: "";
+}
+
+.vineland-icon-drupal:before {
+  content: "";
+}
+
+.vineland-icon-ebay:before {
+  content: "";
+}
+
+.vineland-icon-facebook-f:before {
+  content: "";
+}
+
+.vineland-icon-facebook:before {
+  content: "";
+}
+
+.vineland-icon-figma:before {
+  content: "";
+}
+
+.vineland-icon-firefox:before {
+  content: "";
+}
+
+.vineland-icon-google-plus:before {
+  content: "";
+}
+
+.vineland-icon-google:before {
+  content: "";
+}
+
+.vineland-icon-grunt:before {
+  content: "";
+}
+
+.vineland-icon-gulp:before {
+  content: "";
+}
+
+.vineland-icon-html5:before {
+  content: "";
+}
+
+.vineland-icon-joomla:before {
+  content: "";
+}
+
+.vineland-icon-link-brand:before {
+  content: "";
+}
+
+.vineland-icon-linkedin:before {
+  content: "";
+}
+
+.vineland-icon-mailchimp:before {
+  content: "";
+}
+
+.vineland-icon-opencart:before {
+  content: "";
+}
+
+.vineland-icon-paypal:before {
+  content: "";
+}
+
+.vineland-icon-pinterest-p:before {
+  content: "";
+}
+
+.vineland-icon-reddit:before {
+  content: "";
+}
+
+.vineland-icon-skype:before {
+  content: "";
+}
+
+.vineland-icon-slack:before {
+  content: "";
+}
+
+.vineland-icon-snapchat:before {
+  content: "";
+}
+
+.vineland-icon-spotify:before {
+  content: "";
+}
+
+.vineland-icon-trello:before {
+  content: "";
+}
+
+.vineland-icon-twitter:before {
+  content: "";
+}
+
+.vineland-icon-vimeo:before {
+  content: "";
+}
+
+.vineland-icon-whatsapp:before {
+  content: "";
+}
+
+.vineland-icon-wordpress:before {
+  content: "";
+}
+
+.vineland-icon-yoast:before {
+  content: "";
+}
+
+.vineland-icon-youtube:before {
+  content: "";
+}
+
+.vineland-icon-360:before {
+  content: "";
+}
+
+.vineland-icon-Check-mark:before {
+  content: "";
+}
+
+.vineland-icon-Clip-path-group:before {
+  content: "";
+}
+
+.vineland-icon-Mail:before {
+  content: "";
+}
+
+.vineland-icon-Online_Support:before {
+  content: "";
+}
+
+.vineland-icon-bars:before {
+  content: "";
+}
+
+.vineland-icon-bullet-list-line2:before {
+  content: "";
+}
+
+.vineland-icon-caret-down:before {
+  content: "";
+}
+
+.vineland-icon-caret-left:before {
+  content: "";
+}
+
+.vineland-icon-caret-right:before {
+  content: "";
+}
+
+.vineland-icon-caret-up:before {
+  content: "";
+}
+
+.vineland-icon-cart-1:before {
+  content: "";
+}
+
+.vineland-icon-cart-empty:before {
+  content: "";
+}
+
+.vineland-icon-cart:before {
+  content: "";
+}
+
+.vineland-icon-check-square:before {
+  content: "";
+}
+
+.vineland-icon-circle-2:before {
+  content: "";
+}
+
+.vineland-icon-circle:before {
+  content: "";
+}
+
+.vineland-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.vineland-icon-comment:before {
+  content: "";
+}
+
+.vineland-icon-comments:before {
+  content: "";
+}
+
+.vineland-icon-compare:before {
+  content: "";
+}
+
+.vineland-icon-credit-card:before {
+  content: "";
+}
+
+.vineland-icon-dot-circle:before {
+  content: "";
+}
+
+.vineland-icon-edit:before {
+  content: "";
+}
+
+.vineland-icon-envelope:before {
+  content: "";
+}
+
+.vineland-icon-expand-alt:before {
+  content: "";
+}
+
+.vineland-icon-external-link-alt:before {
+  content: "";
+}
+
+.vineland-icon-eye_1:before {
+  content: "";
+}
+
+.vineland-icon-file-alt:before {
+  content: "";
+}
+
+.vineland-icon-file-archive:before {
+  content: "";
+}
+
+.vineland-icon-filter:before {
+  content: "";
+}
+
+.vineland-icon-fire1:before {
+  content: "";
+}
+
+.vineland-icon-folder-open:before {
+  content: "";
+}
+
+.vineland-icon-folder:before {
+  content: "";
+}
+
+.vineland-icon-frown:before {
+  content: "";
+}
+
+.vineland-icon-gift:before {
+  content: "";
+}
+
+.vineland-icon-grid-view-line:before {
+  content: "";
+}
+
+.vineland-icon-grip-horizontal:before {
+  content: "";
+}
+
+.vineland-icon-heart-fill:before {
+  content: "";
+}
+
+.vineland-icon-heart:before {
+  content: "";
+}
+
+.vineland-icon-history:before {
+  content: "";
+}
+
+.vineland-icon-home:before {
+  content: "";
+}
+
+.vineland-icon-info-circle:before {
+  content: "";
+}
+
+.vineland-icon-instagram:before {
+  content: "";
+}
+
+.vineland-icon-level-up-alt:before {
+  content: "";
+}
+
+.vineland-icon-list:before {
+  content: "";
+}
+
+.vineland-icon-map-marker-check:before {
+  content: "";
+}
+
+.vineland-icon-meh:before {
+  content: "";
+}
+
+.vineland-icon-minus-circle:before {
+  content: "";
+}
+
+.vineland-icon-minus:before {
+  content: "";
+}
+
+.vineland-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.vineland-icon-money-bill:before {
+  content: "";
+}
+
+.vineland-icon-money:before {
+  content: "";
+}
+
+.vineland-icon-paper-plane:before {
+  content: "";
+}
+
+.vineland-icon-pencil-alt:before {
+  content: "";
+}
+
+.vineland-icon-plus-circle:before {
+  content: "";
+}
+
+.vineland-icon-plus:before {
+  content: "";
+}
+
+.vineland-icon-quickview:before {
+  content: "";
+}
+
+.vineland-icon-rating-stroke:before {
+  content: "";
+}
+
+.vineland-icon-rating:before {
+  content: "";
+}
+
+.vineland-icon-repeat:before {
+  content: "";
+}
+
+.vineland-icon-reply-all:before {
+  content: "";
+}
+
+.vineland-icon-reply:before {
+  content: "";
+}
+
+.vineland-icon-search-plus:before {
+  content: "";
+}
+
+.vineland-icon-search:before {
+  content: "";
+}
+
+.vineland-icon-shield-check:before {
+  content: "";
+}
+
+.vineland-icon-shopping-basket:before {
+  content: "";
+}
+
+.vineland-icon-shopping-cart:before {
+  content: "";
+}
+
+.vineland-icon-sign-out-alt:before {
+  content: "";
+}
+
+.vineland-icon-smile:before {
+  content: "";
+}
+
+.vineland-icon-spinner:before {
+  content: "";
+}
+
+.vineland-icon-square:before {
+  content: "";
+}
+
+.vineland-icon-star:before {
+  content: "";
+}
+
+.vineland-icon-store:before {
+  content: "";
+}
+
+.vineland-icon-sync:before {
+  content: "";
+}
+
+.vineland-icon-sync_alt:before {
+  content: "";
+}
+
+.vineland-icon-tachometer-alt:before {
+  content: "";
+}
+
+.vineland-icon-th-large:before {
+  content: "";
+}
+
+.vineland-icon-th-list:before {
+  content: "";
+}
+
+.vineland-icon-thumbtack:before {
+  content: "";
+}
+
+.vineland-icon-times-circle:before {
+  content: "";
+}
+
+.vineland-icon-times:before {
+  content: "";
+}
+
+.vineland-icon-trophy-alt:before {
+  content: "";
+}
+
+.vineland-icon-twitter-x-1:before {
+  content: "";
+}
+
+.vineland-icon-user-headset:before {
+  content: "";
+}
+
+.vineland-icon-user-shield:before {
+  content: "";
+}
+
+.vineland-icon-user:before {
+  content: "";
+}
+
+.vineland-icon-video:before {
+  content: "";
+}
+
+.vineland-icon-wishlist-empty:before {
+  content: "";
+}
+
+.vineland-icon-wishlist:before {
+  content: "";
+}
+
